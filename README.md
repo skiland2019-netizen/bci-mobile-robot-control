@@ -1,1 +1,1 @@
-# bci-mobile-robot-control
+# heat-stroke-predictor-wearable
